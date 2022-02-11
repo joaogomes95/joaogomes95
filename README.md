@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Atualmente estou buscando uma oportunidade de emprego na área de Back-end
-- 🌱 Estudando React JS/Nest JS
+- 🔭 Atualmente estou buscando uma oportunidade de emprego na área de desenvolvimento. Stack front-end!
+- 🌱 Estudando React JS/Next JS/Angular
 - 📫 Contate-me através do e-mail: joaovitorgomes95@gmail.com
 
 <div align="center">
